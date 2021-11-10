@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Caio 👋
 
-- 🔭 Atualmente Busco oportunidades Desenvolvedor web jr
-- 🌱Estudando para se tornar um Full-stack Web Jr
+- 🔭 Analista de Micro-Serviços em Java
+- 🌱Repositorio Para projetos que são criados do nada
 
 <div>
   <a href="https://github.com/CaioCechini">
