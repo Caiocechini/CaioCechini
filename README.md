@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Caio 👋
 
-- 🔭 Desenvolvedor Back-end | Java jr
+- 🔭 Desenvolvedor Back-end | 
 - 🌱Repositorio Para projetos que são criados do nada
 
 <div>
